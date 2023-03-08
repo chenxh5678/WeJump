@@ -4,7 +4,7 @@ v1.0版本，Bug多多
 仅支持android系统的手机。只测试了Android13版本、MIUI14系统，其它机型和版本不确定是否能运行
 
 # 安装包
-在release中下载WeJump.apk安装包，拷贝到手机上安装即可
+在页面右侧的release中下载WeJump.apk安装包，拷贝到手机上安装即可
 
 # 更多训练监控工具
 
