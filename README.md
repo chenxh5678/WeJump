@@ -4,7 +4,7 @@ v1.0版本，Bug多多
 仅支持android系统的手机。只测试了Android13版本、MIUI14系统，其它机型和版本不确定是否能运行
 
 # 安装包
-在release中下载apk安装包，拷贝到手机上安装
+在release中下载WeJump.apk安装包，拷贝到手机上安装即可
 
 # 更多训练监控工具
 
@@ -16,14 +16,18 @@ v1.0版本，Bug多多
 
 4.GoPower Line传感器，APP微信小程序“运动功率计”。原理与GymAware相同。这类优点信效度高，缺点要拉线
 
-5.GoPose软件（Github开源），人工智能运动学分析软件，https://github.com/chenxh5678/GoPose
+5.[GoPose软件](https://github.com/chenxh5678/GoPose)，人工智能运动学分析软件
 
 6.测反应速度的微信小程序“秒表与反应时”，跟跳跃没直接关系，但可用于训练球员的反应速度
 
+## 微信扫一扫进入小程序
+GoJump
 ![image](弹跳力.jpg)
 
+GoPower
 ![image](运动功率计.jpg)
 
+秒表与反应时
 ![image](秒表与反应时.jpg)
 # BUG提交至
 chenxh5678@163.com
